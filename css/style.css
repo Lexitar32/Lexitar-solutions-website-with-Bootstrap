@@ -32,7 +32,7 @@ body {
 
 /* SITE CONTENT */
 .site-content {
-  background-image: url('/Project-1/img/site.jpg');
+  background-image: url('/img/site.jpg');
   background-attachment: fixed;
   background-size: cover;
 }
@@ -96,7 +96,7 @@ body {
 
 /* SECTION-2 */
 .section-2 .container-fluid {
-  background-image: url(/Project-1/img/banner-2.jpg);
+  background-image: url(/img/banner-2.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
