@@ -36,7 +36,7 @@ body {
 
 /* SITE CONTENT */
 .site-content {
-  background-image: url('/img/site.jpg');
+  background-image: url('../img/site.jpg');
   background-attachment: fixed;
   background-size: cover;
 }
@@ -102,7 +102,7 @@ body {
 
 /* SECTION-2 */
 .section-2 .container-fluid {
-  background-image: url(/img/banner-2.jpg);
+  background-image: url('../img/banner-2.jpg');
   background-size: cover;
   background-attachment: fixed;
 }
@@ -170,9 +170,28 @@ body {
   margin-top: 5%;
 }
 
+.text-us {
+  margin: auto;
+  max-width: 30%;
+  background-color: #00e8e8;
+  border-radius: 7px;
+}
+
 .social i {
-  color: #ef5651;
+  color: #00e8e8;
   font-size: 20px;
+}
+
+/* footer form {
+  background-color: #ccc;
+  border: 1px solid #ccc;
+  padding: 10px;
+} */
+
+footer form input,
+footer form textarea {
+  margin: auto;
+  max-width: 30%;
 }
 
 /* RESPONSIVENESS */
