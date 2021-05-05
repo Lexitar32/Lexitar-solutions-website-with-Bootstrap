@@ -182,17 +182,16 @@ body {
   font-size: 20px;
 }
 
-/* footer form {
-  background-color: #ccc;
-  border: 1px solid #ccc;
-  padding: 10px;
-} */
+footer form .my-form {
+  margin: auto;
+  max-width: 30%;
+}
 
-footer form input,
+/* footer form input,
 footer form textarea {
   margin: auto;
   min-width: 30%;
-}
+} */
 
 /* RESPONSIVENESS */
 /* WIDESCREEN AND LAPTOPS */
