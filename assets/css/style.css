@@ -172,7 +172,7 @@ body {
 
 .text-us {
   margin: auto;
-  max-width: 30%;
+  min-width: 30%;
   background-color: #00e8e8;
   border-radius: 7px;
 }
@@ -191,7 +191,7 @@ body {
 footer form input,
 footer form textarea {
   margin: auto;
-  max-width: 30%;
+  min-width: 30%;
 }
 
 /* RESPONSIVENESS */
